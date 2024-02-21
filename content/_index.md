@@ -175,6 +175,8 @@ sections:
           tag: Deep Learning
         - name: Other
           tag: Demo
+        - name: Water lily
+          tag: Water lily
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -237,8 +239,7 @@ sections:
       text: |-
         <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nEHw8740WQungj9ay1bY-OHYfJhxEQkfKYiqFdxZU2c&cl=ffffff&w=a"></script>
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: wangyinjie@tongji.edu.cn
       appointment_url: 'https://calendly.com'
       address:
         street: 1239 Siping Road
