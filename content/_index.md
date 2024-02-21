@@ -253,8 +253,8 @@ sections:
         - 'Wednesday 09:00 to 10:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '31.282553'
-        longitude: '121.50781'  
+        latitude: '31.284906919181495'
+        longitude: '121.50147636149214'  
       contact_links:
         - icon: twitter
           icon_pack: fab
