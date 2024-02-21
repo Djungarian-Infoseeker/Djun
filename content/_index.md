@@ -120,7 +120,7 @@ sections:
           date_end: ''
           date_start: '2019-05-12'
           description: ''
-          icon: project/UBO.jpg
+          icon: UBO
           organization: Chinese Zoological Society
           organization_url: http://czs.ioz.cas.cn/
           title: 'First Prize in the China High School Biology Olympiad'
