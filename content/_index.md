@@ -75,14 +75,14 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: 2023 Comprehensive Scientific Research Voyage on the Key Processes-to-Products in the Yangtze River-Estuary-East China Sea Continuum
+          company: State Key Laboratory of Marine Geology,Tongji University
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Yangtze River Estuary Sea Area
+          date_start: '2023-08-13'
+          date_end: '2020-08-21'
+          description: Intern student in physical oceanography
     design:
       columns: '2'
   - block: accomplishments
