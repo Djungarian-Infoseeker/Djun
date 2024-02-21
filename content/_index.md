@@ -102,8 +102,8 @@ sections:
           date_end: ''
           date_start: '2023-12-01'
           description: ''
-          icon: coursera
-          organization: HENGTONG GROUP CO.LTD
+          icon: 
+          organization: Hengtong GROUP CO.LTD
           organization_url:
           title: Tongji University Hengtong·Marine Scholarship
           url: ''
@@ -111,7 +111,7 @@ sections:
           date_end: ''
           date_start: '2023-10-01'
           description: 
-          icon: edx
+          icon: 
           organization: Tongji University
           organization_url: https://www.tongji.edu.cn
           title: Outstanding Student Scholarship
