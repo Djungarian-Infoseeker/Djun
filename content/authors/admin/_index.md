@@ -5,7 +5,7 @@ title: 王胤杰
 name_pronunciation: Yinjie Wang
 
 # Full name (for SEO)
-first_name: Tinjie
+first_name: Yinjie
 last_name: Wang
 
 # Status emoji
@@ -28,18 +28,18 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Atmospheric and Oceanic Dynamics
+  - Planetary Atmosphere
+  - Complexity Science
 
 # Education to show in About widget
 education:
   courses:
     - course: BSc in Oceanography
-      institution: Tongji University
+      institution: Tongji University,Shanghai
       year: 2021-
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: High School Student
+      institution: Yangquan No.1 High School,Yangquan
       year: 2017-2020
 
 # Skills
