@@ -90,7 +90,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'wangyinjie@tongji.edu.cn'
-  - icon: wechat
+  - icon: twitter
     icon_pack: fab
     link: https://u.wechat.com/EKqS2xyNsnxEDWgU7vpqKqg
     label: 
