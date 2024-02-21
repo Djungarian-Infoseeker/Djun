@@ -235,7 +235,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=nEHw8740WQungj9ay1bY-OHYfJhxEQkfKYiqFdxZU2c&cl=ffffff&w=a"></script>
       # Contact (add or remove contact options as necessary)
       email: test@example.org
       phone: 888 888 88 88
