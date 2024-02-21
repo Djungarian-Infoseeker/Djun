@@ -31,7 +31,7 @@ interests:
   - Atmospheric and Oceanic Dynamics
   - Planetary Atmosphere
   - Complexity Science
-
+  - Geographic information science
 # Education to show in About widget
 education:
   courses:
@@ -89,11 +89,11 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: 'wangyinjie@tongji.edu.cn'
+  - icon: wechat
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
+    link: https://u.wechat.com/EKqS2xyNsnxEDWgU7vpqKqg
+    label: 
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
