@@ -100,7 +100,7 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
-          date_start: '2023-12'
+          date_start: '2023-12-01'
           description: ''
           icon: coursera
           organization: HENGTONG GROUP CO.LTD
@@ -109,7 +109,7 @@ sections:
           url: ''
         - certificate_url: 
           date_end: ''
-          date_start: '2023-10'
+          date_start: '2023-10-01'
           description: 
           icon: edx
           organization: Tongji University
