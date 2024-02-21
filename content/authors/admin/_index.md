@@ -57,7 +57,7 @@ skills:
         percent: 100
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: GIS
         description: ''
         percent: 40
         icon: database

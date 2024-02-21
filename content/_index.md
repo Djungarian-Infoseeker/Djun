@@ -116,14 +116,14 @@ sections:
           organization_url: https://www.edx.org
           title: Blockchain Fundamentals
           url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - certificate_url: 
+          date_end: ''
+          date_start: '2019-05-12'
           description: ''
           icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Chinese Zoological Society
+          organization_url: http://czs.ioz.cas.cn/
+          title: 'First Prize in the China High School Biology Olympiad'
           url: ''
     design:
       columns: '2'
