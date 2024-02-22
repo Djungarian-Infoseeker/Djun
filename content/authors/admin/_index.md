@@ -37,7 +37,7 @@ education:
   courses:
     - course: BSc in Oceanography
       institution: Tongji University,Shanghai
-      year: 2021-
+      year: 2021-now
     - course: High School Student
       institution: Yangquan No.1 High School,Yangquan
       year: 2017-2020
@@ -52,11 +52,11 @@ skills:
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: Latex
         description: ''
         percent: 100
-        icon: chart-line
-        icon_pack: fas
+        icon: newspaper
+        icon_pack: fa
       - name: GIS
         description: ''
         percent: 40
@@ -115,4 +115,4 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am a third year undergraduate marine science student at Tongji University.I find myself always having a keen perception of the dynamics of some systems, and therefore hope to engage in related research in the future. In my daily life, I enjoy making videos, cultivating water lilies, and am also very passionate about listening to music.
+I am a third-year undergraduate student in the Department of Marine Science at Tongji University. Through a long process of self-discovery, I've found that I have a strong interest in the dynamic development of certain systems and a keen ability to unearth hidden information. Consequently, I've adopted a new online moniker, "Infoseeker". In my daily life, I enjoy making videos, particularly those involving special effects and 3D modeling. Additionally, I have a long-standing hobby that dates back to my childhood: cultivating plants, especially those from the Nymphaeaceae family (water lilies), and listening to music.
