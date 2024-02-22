@@ -71,16 +71,16 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Music
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        icon: headphones
+        icon_pack: fa
+      - name: Visual Design
         description: ''
         percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        icon: video
+        icon_pack: fa
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -89,10 +89,10 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'wangyinjie@tongji.edu.cn'
-  - icon: twitter
-    icon_pack: fab
-    link: https://u.wechat.com/EKqS2xyNsnxEDWgU7vpqKqg
+    link: 'mailto:wangyinjie@tongji.edu.cn'
+  - icon: record-vinyl
+    icon_pack: fa
+    link: https://y.music.163.com/m/user?id=55809030
     label: 
     display:
       header: true
@@ -102,15 +102,15 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+  - icon: bilibili
+    icon_pack: fa
+    link: https://space.bilibili.com/8366216
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  #- icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
