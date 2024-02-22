@@ -21,6 +21,16 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
+      - name: Cinema4D
+        description: ''
+        percent: 70
+        icon: cube
+        icon_pack: fa
+      - name: After Effects
+        description: ''
+        percent: 90
+        icon: photo-film
+        icon_pack: fas
   - name: Hobbies
     color: "#eeac02"
     color_border: "#f0bf23"
