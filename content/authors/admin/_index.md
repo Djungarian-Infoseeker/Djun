@@ -53,8 +53,13 @@ skills:
       - name: Culture&History
         description: ""
         percent: 60
-        icon: video
-        icon_pack: fa
+        icon: landmark-dome
+        icon_pack: fas
+      - name: Cultivating Plants
+        description: ""
+        percent: 60
+        icon: spa
+        icon_pack: fas
 title: 王胤杰
 role: Undergraduate Student of Oceanography
 bio: My research interests include distributed robotics, mobile computing and
