@@ -50,6 +50,11 @@ skills:
         percent: 80
         icon: video
         icon_pack: fa
+      - name: Culture&History
+        description: ""
+        percent: 60
+        icon: video
+        icon_pack: fa
 title: 王胤杰
 role: Undergraduate Student of Oceanography
 bio: My research interests include distributed robotics, mobile computing and

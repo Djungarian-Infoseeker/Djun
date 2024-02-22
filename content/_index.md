@@ -183,8 +183,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: FieldWork
+          tag: FieldWork
         - name: Other
           tag: Demo
         - name: Water lily
