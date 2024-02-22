@@ -1,78 +1,57 @@
 ---
-title: 'An example conference paper'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+abstract: >
+  The National Basketball Association (NBA) is one of the four major
+  professional sportsleagues in the United States and holds substantial economic
+  value. Since the creation of the NBA,the issue of NBA player salaries has
+  become increasingly relevant and the disproportionate salariesof players has
+  emerged as a challenge that obstructs the growth of the league. This paper
+  will employdata from 331 NBA players over the 2020-2021 season to develop
+  multiple linear regression modelsfor analyzing appropriate player salaries.
+  The multiple regression analysis was conducted usingbasic and advanced data of
+  players as independent variables, which include dozens of variablessuch as
+  player's age, player's number of games, and player's average score, and player
+  salary asdependent variable. In order to analyze the results more accurately,
+  several types of multiple linearregression models are used in this paper:
+  Ordinary least squares, Ridge regression, Lassoregression, Elastic net
+  regression. The outcome of the regression model for NBA player salary
+  willcontribute to enhancing the commercial worth of the NBA and provide
+  constructive input to theleague and the team. This research found investors
+  place higher significance on players' three-pointshooting proficiency,
+  defensive abilities, and teamwork capacity, which aligns with the current
+  playingstyle of the NBA. 
+slides: ""
+url_pdf: ""
+publication_types:
+  - paper-conference
 authors:
-  - admin
-  - Robert Ford
-
-# Author notes (optional)
+  - Xuanhao Feng
+  - Yinjie Wang
+  - Tianqin Xiong
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-
-date: '2013-07-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Accepts a single type but formatted as a YAML list (for Hugo requirements).
-# Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
-
-# Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
+  - These authors contributed equally.
+publication: "Highlights in Science, Engineering and Technology "
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
+  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
+  condimentum.
+url_dataset: https://github.com/HugoBlox/hugo-blox-builder
+url_project: ""
 publication_short: In *ICW*
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
-tags: []
-
-# Display this page in the Featured widget?
+url_source: https://github.com/HugoBlox/hugo-blox-builder
+url_video: https://youtube.com
+title: NBA Player Salary Analysis based on Multivariate Regression Analysis
+doi: http://dx.doi.org/10.54097/hset.v49i.8498
 featured: true
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
-
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
+tags: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects:
-  - example
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides: example
+date: 2013-07-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: https://github.com/HugoBlox/hugo-blox-builder
 ---
 
 {{% callout note %}}
