@@ -200,11 +200,7 @@ sections:
       title: Gallery
       subtitle: ''
       text: |-
-  
-        gallery_item:
-          - album:"demo"
-          image:chris-montgomery-smgTvepind4-unsplash.jpg
-          caption: Write your image 1 caption here
+        {{< gallery album="demo" resize_options="250x250">}}
 
     design:
       columns: '1'
