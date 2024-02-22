@@ -7,7 +7,7 @@ tags:
   - Demo
 external_link: https://example.org
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Photo by Infoseeker
   focal_point: Smart
   filename: hyb22.jpg
 ---
