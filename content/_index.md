@@ -199,8 +199,12 @@ sections:
     content:
       title: Gallery
       subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
+      text: 
+        gallery_item:
+          - album:"demo"
+          image:chris-montgomery-smgTvepind4-unsplash.jpg
+          caption: Write your image 1 caption here
+
     design:
       columns: '1'
   - block: collection
