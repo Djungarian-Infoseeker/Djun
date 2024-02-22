@@ -101,7 +101,7 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Djungarian-Infoseeker
   - icon: bilibili
     icon_pack: fab
     link: https://space.bilibili.com/8366216
