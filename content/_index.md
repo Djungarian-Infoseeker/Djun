@@ -197,10 +197,10 @@ sections:
       flip_alt_rows: false
   - block: markdown
     content:
-      title: Gallery
+      title: My Waterlily Gallery
       subtitle: ''
       text: |-
-        {{< gallery album="demo" resize_options="250x250">}}
+        {{< gallery album="demo" >}}
 
     design:
       columns: '1'
