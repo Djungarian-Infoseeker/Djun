@@ -103,7 +103,7 @@ social:
     icon_pack: fab
     link: https://github.com/gcushen
   - icon: bilibili
-    icon_pack: fa
+    icon_pack: fab
     link: https://space.bilibili.com/8366216
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
