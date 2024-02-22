@@ -1,11 +1,11 @@
 ---
 title: The first water lily hybrid I cultivated.
-date: 2016-04-27T00:00:00Z
+date: 2016-04-27T00:00:00.000Z
 summary: An example of linking directly to an external project website using
   `external_link`.
 tags:
-  - Demo
-external_link: https://example.org
+  - Water lily
+external_link: ""
 image:
   caption: Photo by Infoseeker
   focal_point: Smart
