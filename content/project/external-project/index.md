@@ -1,8 +1,10 @@
 ---
 title: The first water lily hybrid I cultivated.
 date: 2016-04-27T00:00:00.000Z
-summary: An example of linking directly to an external project website using
-  `external_link`.
+summary: In 2022, the hybrid water lily I created produced seeds, and these
+  seeds sprouted, grew, and bloomed in 2023. Among them, one plant inherited the
+  color from the father and the flower shape from the mother, combining the
+  strengths of both varieties.
 tags:
   - Water lily
 external_link: ""
